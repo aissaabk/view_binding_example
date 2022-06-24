@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">view binding example</string>
+    <string name="button">Show Text</string>
+    <string name="hellobinding">hello binding</string>
+</resources>
